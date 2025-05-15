@@ -1,0 +1,5 @@
+1. One challenges encounter while creating this game was the scripting. it was hard for me to identify mistake on the script when there is an error. Also setting up the player and the enemy gave me a bit of problem
+
+2. How did I overcome the challenges, I will say it boiled down to zealousness, I have to find away, I check through the code one after the other to find where the problem is coming, sometimes it could be change of letter or symbols
+
+3. To improve on the game, create more scene and difficults
